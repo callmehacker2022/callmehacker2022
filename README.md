@@ -9,4 +9,5 @@ callmehacker2022/callmehacker2022 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-[hello](https://google.com)
+[hello](https://google.com@javascript://https://apple.com)
+[hello](javascript://https://google.com@javascript://https://apple.com)
